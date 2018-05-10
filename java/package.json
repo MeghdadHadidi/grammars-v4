@@ -1,0 +1,17 @@
+{
+  "name": "java",
+  "version": "1.0.0",
+  "description": "Based on the previous optimized [Java7](../java) grammar by Terence Parr and Sam Harwell with the same BSD license. This grammar does not exactly corresponds to the formal Java specification unlike usual [Java8](../java8) grammar, but passes tests such as [AllInOne7.Java](examples/AllInOne7.java) and [AllInOne8.java](examples/AllInOne8.java). Performance, practical usage and clarity in priority.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.7.1"
+  }
+}

@@ -13,3 +13,5 @@
 .idea/
 *.iml
 /**/gen
+
+**/node_modules
